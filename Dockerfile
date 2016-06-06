@@ -18,7 +18,7 @@ WORKDIR /site
 
 RUN bundle install
 
-ADD . /site
+# ADD . /site
 
 RUN adduser -S jekyll
 

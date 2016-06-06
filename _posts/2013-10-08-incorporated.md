@@ -28,7 +28,7 @@ subtitle: "What's in the box"
 # Setup post cover image in /images/
 cover_image: blog-cover.jpg
 
-excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
+excerpt: "We've be doing 'DevOps' and 'SaaS' since before they were terms."
 
 # Author details, including Google Plus authorship
 author:
